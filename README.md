@@ -1,2 +1,2 @@
-# Movie-Rating-Project-
+# Movie-Rating-Project
 I developed this project using basic HTML Tags . 
